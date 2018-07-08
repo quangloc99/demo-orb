@@ -1,0 +1,15 @@
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+images/
+
+main
+example
+
+*.a
+*.zip
+*.mp4
+
+*.swp
